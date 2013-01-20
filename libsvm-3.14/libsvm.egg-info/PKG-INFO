@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: libsvm
+Version: 3.14
+Summary: This is libsvm buindings for Python with Homebrew.
+Home-page: https://github.com/Salinger/libsvm-python
+Author: Salinger
+Author-email: UNKNOWN
+License: The modified BSD license
+Description: UNKNOWN
+Platform: UNKNOWN
